@@ -9,7 +9,7 @@ app.use(express.json());
 
 // Define a route for the root path
 app.get('/', (req, res) => {
-  res.send('Welcome fdfdfdfdfdto FitConnect API!');
+  res.send('Welcome to KYLE WASnt HEREFitConnect API!');
 });
 
 // Use your other routes (e.g., auth routes)

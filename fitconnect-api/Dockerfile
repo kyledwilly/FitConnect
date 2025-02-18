@@ -24,4 +24,4 @@ COPY . .
 EXPOSE 3000
 
 # Command to run the application using nodemon
-CMD ["npx", "nodemon", "index.js"]
+CMD ["nodemon", "index.js"]
